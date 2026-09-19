@@ -1,0 +1,8 @@
+{
+  "UiPath.DocumentProcessing.Contracts": "2.3.0-preview",
+  "UiPath.Excel.Activities": "3.6.0-preview",
+  "UiPath.Mail.Activities": "2.11.10",
+  "UiPath.MicrosoftOffice365.Activities": "3.11.10",
+  "UiPath.OCR.Activities": "4.4.0-preview",
+  "UiPath.System.Activities": "26.6.2"
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "SmartInvoice_Process",
+  "ProjectType": "Process",
+  "Description": "Add The Invoices in Queue",
+  "MainFile": "Main.xaml"
+}
